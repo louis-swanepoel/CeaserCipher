@@ -1,0 +1,10 @@
+Total number of words: 3
+Number of unique words: 3
+Minimum word length: 3
+Maximum word length: 4
+Most common letter: E
+['PIGS', 'ARE', 'VUTE']
+
+PIGS: 1
+ARE: 1
+VUTE: 1
